@@ -1,7 +1,7 @@
 # CLEANER
 This is a web game where the user must take on the role of a content moderator and filter out content from the internet. 
 
-Try it [here](https://atienn.github.io/Personal/CLEANER/).
+Try it [here](https://atienn.github.io/cleaner/).
 
 ## Artist Statement
 ### Basis
